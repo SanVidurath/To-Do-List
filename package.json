@@ -1,13 +1,13 @@
 {
-  "homepage": "https://sanvidurath.github.io/To-Do-List",
+  "homepage": "https://sanvidurath.github.io/To-Do-List/",
   "name": "to-do-list",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-pages -d dist",
+    "deploy": "gh-pages -d dist",
+    "dev": "vite",
     "build": "tsc && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
