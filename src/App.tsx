@@ -26,9 +26,9 @@ function App() {
           <Header />
           {/* <RouterProvider router={router} /> */}
           <Routes>
-            <Route path="/" element={<ListItems />} />
-            <Route path="/completed" element={<CompletedItems />} />
-            <Route path="/active" element={<ActiveItems />} />
+            <Route path="/To-Do-List/" element={<ListItems />} />
+            <Route path="/To-Do-List/completed" element={<CompletedItems />} />
+            <Route path="/To-Do-List/active" element={<ActiveItems />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
           <Footer />

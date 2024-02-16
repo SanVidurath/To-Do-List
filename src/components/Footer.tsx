@@ -64,14 +64,14 @@ const Footer = () => {
                 justifyContent: isSmallScreen ? "center" : "flex-start",
               }}
             >
-              <Link to="/">
+              <Link to="/To-Do-List/">
                 <StyledButton variant="contained">All</StyledButton>
               </Link>
-              <Link to="/active">
+              <Link to="/To-Do-List/active">
                 <StyledButton variant="contained">Active</StyledButton>
               </Link>
 
-              <Link to="/completed">
+              <Link to="/To-Do-List/completed">
                 <StyledButton variant="contained">Completed</StyledButton>
               </Link>
 
