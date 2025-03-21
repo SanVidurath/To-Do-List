@@ -7,6 +7,5 @@ A simple todo list to store your tasks
 * React
 * Typescript
 * HTML5
-* Bootstrap
 * Vite (Build Tool)
 
