@@ -1,3 +1,10 @@
 # To-Do-List
-# React + TypeScript + Vite
+A simple todo list
+
+## Technologies Used
+* Vite (Build Tool)
+* React
+* Typescript
+* HTML5
+* CSS3
 
