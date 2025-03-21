@@ -1,10 +1,12 @@
 # To-Do-List
-A simple todo list
+
+## Overview
+A simple todo list to store your tasks
 
 ## Technologies Used
-* Vite (Build Tool)
 * React
 * Typescript
 * HTML5
-* CSS3
+* Bootstrap
+* Vite (Build Tool)
 
